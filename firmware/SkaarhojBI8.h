@@ -17,12 +17,6 @@
 #ifndef SkaarhojBI8_H
 #define SkaarhojBI8_H
 
-#if defined(ARDUINO) && ARDUINO >= 100
-#include "Arduino.h"
-#else
-#include "WProgram.h"
-#endif
-
 #include "Wire.h"
 #include "MCP23017.h"
 #include "PCA9685.h"
