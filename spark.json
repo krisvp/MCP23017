@@ -1,7 +1,7 @@
 {
-  "name": "SkaarhojBI8",
+  "name": "MCP23017",
   "author": "Kris Van Peer <krisvp@telenet.be>",
   "license": "MIT",
   "version": "0.0.20",
-  "description": "Buttons for security system"
+  "description": "Input test"
 }
